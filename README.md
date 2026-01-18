@@ -200,7 +200,7 @@ Internal use only - Ezmedtech proprietary training material
 
 For questions or issues with the training hub:
 - Contact: IT Support Team
-- Email: support@ezmedtech.ai
+- Email: sales@ezmedtech.ai
 - Slack: #sales-training
 
 ## 📅 Version History
@@ -214,4 +214,4 @@ For questions or issues with the training hub:
 
 ---
 
-**Built with ❤️ for the Ezmedtech Sales Team**
+
